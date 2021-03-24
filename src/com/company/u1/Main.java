@@ -1,6 +1,7 @@
-package com.company;
+package com.company.u1;
 
 public class Main {
+
 
     public static void main(String[] args) {
 
