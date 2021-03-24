@@ -13,8 +13,5 @@ public class DataStructures {
 
         Set<String> mySet = new HashSet<>();
 
-
-        // das ist ein kommentar
-
     }
 }
